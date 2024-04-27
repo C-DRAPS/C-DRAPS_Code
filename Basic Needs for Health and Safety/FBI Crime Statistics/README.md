@@ -45,3 +45,9 @@ It includes:
 1. Go to the FBI developer's page and sign up for an API key: [https://api.data.gov/signup/](https://api.data.gov/signup/)
 2. Enter your name, email, etc.
 3. Check your inbox for an email containing your personal API key (do not share with anyone!)
+
+<br> 
+
+### Flow Diagram
+![Flow Diagram](https://raw.githubusercontent.com/C-DRAPS/C-DRAPS_Code/main/Basic%20Needs%20for%20Health%20and%20Safety/FBI%20Crime%20Statistics/FBI%20Crime%20Statistics%20Flow%20Diagram.jpg)
+[Link to Flow Diagram](https://github.com/C-DRAPS/C-DRAPS_Code/blob/main/Basic%20Needs%20for%20Health%20and%20Safety/FBI%20Crime%20Statistics/FBI%20Crime%20Statistics%20Flow%20Diagram.jpg)
