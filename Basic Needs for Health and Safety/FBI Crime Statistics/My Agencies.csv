@@ -1,0 +1,468 @@
+State,County,Agency Name,Ori,Division Name,Region Name,Region Description,Agency Type Name,NIBRS,NIBRS Start Date,Latitude,Longitude
+Kentucky,ADAIR,Adair County Sheriff's Office,KY0010000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.105559,-85.28138
+Kentucky,ADAIR,Columbia Police Department,KY0010100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.10318,-85.30553
+Kentucky,ALLEN,Allen County Sheriff's Office,KY0020000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,36.748547,-86.19544
+Kentucky,ALLEN,Scottsville Police Department,KY0020100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.75077,-86.192458
+Kentucky,ANDERSON,Anderson County Sheriff's Office,KY0030000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.035694,-84.89583
+Kentucky,ANDERSON,Lawrenceburg Police Department,KY0030100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.03742,-84.894905
+Kentucky,BALLARD,Ballard County Sheriff's Office,KY0040000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.05112,-89.009178
+Kentucky,BALLARD,La Center Police Department,KY0040300,East South Central,South,Region III,City,TRUE,2010-07-01T00:00:00.000Z,37.05112,-89.009178
+Kentucky,BARREN,Barren County Sheriff's Office,KY0050000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,36.995705,-85.91198
+Kentucky,BARREN,Glasgow Police Department,KY0050100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.963614,-85.92499
+Kentucky,BARREN,Cave City Police Department,KY0050200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.963614,-85.92499
+Kentucky,BARREN,Barren County Constable District 1,KY0051000,East South Central,South,Region III,Other,FALSE,,,
+Kentucky,BARREN,Barren County Drug Task Force,KY0051100,East South Central,South,Region III,Other,TRUE,2009-01-01T00:00:00.000Z,36.99597,-85.91205
+Kentucky,BATH,Bath County Sheriff's Office,KY0060000,East South Central,South,Region III,County,TRUE,2014-01-01T00:00:00.000Z,38.152249,-83.737641
+Kentucky,BATH,Owingsville Police Department,KY0060100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.152249,-83.737641
+Kentucky,BELL,Bell County Sheriff's Office,KY0070000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,36.72268,-83.681046
+Kentucky,BELL,Middlesboro Police Department,KY0070100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.72268,-83.681046
+Kentucky,BELL,Pineville Police Department,KY0070200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.72268,-83.681046
+Kentucky,BOONE,Boone County Sheriff's Office,KY0080000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.974595,-84.731431
+Kentucky,BOONE,Florence Police Department,KY0080200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.996952,-84.6432
+Kentucky,BOONE,Cincinnati-Northern Kentucky International Airport,KY0080500,East South Central,South,Region III,Other,TRUE,2009-01-01T00:00:00.000Z,38.974595,-84.731431
+Kentucky,BOURBON,Bourbon County Sheriff's Office,KY0090000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.21276,-84.249535
+Kentucky,BOURBON,Paris Police Department,KY0090100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.21166,-84.2516
+Kentucky,"BOURBON, NICHOLAS",Millersburg Police Department,KY0090200,East South Central,South,Region III,City,TRUE,2010-04-01T00:00:00.000Z,38.202562,-84.20986
+Kentucky,BOURBON,Bourbon County Constable District 3,KY0090400,East South Central,South,Region III,Other,FALSE,,,
+Kentucky,BOURBON,Bourbon County Constable District 7,KY0090700,East South Central,South,Region III,Other,TRUE,2020-01-01T00:00:00.000Z,,
+Kentucky,BOURBON,Bourbon County Schools,KY0090800,East South Central,South,Region III,Other,TRUE,2020-11-01T00:00:00.000Z,,
+Kentucky,BOYD,Boyd County Sheriff's Office,KY0100000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.360004,-82.681406
+Kentucky,BOYD,Ashland Police Department,KY0100100,East South Central,South,Region III,City,TRUE,2001-05-01T00:00:00.000Z,38.360004,-82.681406
+Kentucky,BOYD,Catlettsburg Police Department,KY0100200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.360004,-82.681406
+Kentucky,BOYD,FIVCO Area Drug Task Force,KY0100400,East South Central,South,Region III,Other,TRUE,2009-01-01T00:00:00.000Z,38.360004,-82.681406
+Kentucky,BOYD,Northeast Kentucky Drug Task Force,KY0100900,East South Central,South,Region III,Other,TRUE,2019-01-01T00:00:00.000Z,,
+Kentucky,BOYLE,Boyle County Sheriff's Office,KY0110000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.645885,-84.77323
+Kentucky,BOYLE,Danville Police Department,KY0110100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.618104,-84.868352
+Kentucky,"BOYLE, LINCOLN",Junction City Police Department,KY0110200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.618104,-84.868352
+Kentucky,BOYLE,Perryville Police Department,KY0110300,East South Central,South,Region III,City,TRUE,2013-09-01T00:00:00.000Z,37.618104,-84.868352
+Kentucky,BRACKEN,Bracken County Sheriff's Office,KY0120000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.677557,-84.10468
+Kentucky,BRACKEN,Augusta Police Department,KY0120100,East South Central,South,Region III,City,TRUE,2010-02-01T00:00:00.000Z,38.677557,-84.10468
+Kentucky,BRACKEN,Brooksville Police Department,KY0120200,East South Central,South,Region III,City,TRUE,2015-05-01T00:00:00.000Z,38.677557,-84.10468
+Kentucky,BREATHITT,Breathitt County Sheriff's Office,KY0130000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.554176,-83.38336
+Kentucky,BREATHITT,Jackson Police Department,KY0130100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.552784,-83.385506
+Kentucky,BREATHITT,Breathitt County Constable District 2,KY0130400,East South Central,South,Region III,Other,FALSE,,,
+Kentucky,BRECKINRIDGE,Breckinridge County Sheriff's Office,KY0140000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.778109,-86.432829
+Kentucky,BRECKINRIDGE,Hardinsburg Police Department,KY0140100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.778109,-86.432829
+Kentucky,BRECKINRIDGE,Cloverport Police Department,KY0140200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.83717,-86.63158
+Kentucky,BRECKINRIDGE,Irvington Police Department,KY0140300,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.778109,-86.432829
+Kentucky,BULLITT,Bullitt County Sheriff's Office,KY0150000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.969572,-85.703036
+Kentucky,BULLITT,Shepherdsville Police Department,KY0150100,East South Central,South,Region III,City,TRUE,2010-01-01T00:00:00.000Z,37.969572,-85.703036
+Kentucky,BULLITT,Lebanon Junction Police Department,KY0150200,East South Central,South,Region III,City,TRUE,2010-01-01T00:00:00.000Z,37.969572,-85.703036
+Kentucky,BULLITT,Mount Washington Police Department,KY0150300,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.969572,-85.703036
+Kentucky,BULLITT,Hillview Police Department,KY0150500,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.079086,-85.676926
+Kentucky,BULLITT,Pioneer Village Police Department,KY0150600,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.969572,-85.703036
+Kentucky,BULLITT,Bullitt County Drug Task Force,KY0151200,East South Central,South,Region III,Other,FALSE,,,
+Kentucky,BUTLER,Butler County Sheriff's Office,KY0160000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.207013,-86.682471
+Kentucky,BUTLER,Morgantown Police Department,KY0160100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.207013,-86.682471
+Kentucky,CALDWELL,Caldwell County Sheriff's Office,KY0170000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.10933,-87.88178
+Kentucky,CALDWELL,Princeton Police Department,KY0170100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.10793,-87.88273
+Kentucky,CALLOWAY,Calloway County Sheriff's Office,KY0180000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,36.609882,-88.30133
+Kentucky,CALLOWAY,Murray Police Department,KY0180100,East South Central,South,Region III,City,TRUE,2000-01-01T00:00:00.000Z,36.60865,-88.302155
+Kentucky,CALLOWAY,Murray State University,KY0180200,East South Central,South,Region III,University or College,TRUE,2003-02-01T00:00:00.000Z,36.620978,-88.274086
+Kentucky,CAMPBELL,Campbell County Sheriff's Office,KY0190000,East South Central,South,Region III,County,TRUE,2013-02-01T00:00:00.000Z,39.086143,-84.48753
+Kentucky,CAMPBELL,Bellevue Police Department,KY0190100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,39.106216,-84.47929
+Kentucky,CAMPBELL,Campbell County Police Department,KY0190200,East South Central,South,Region III,County,TRUE,1996-04-01T00:00:00.000Z,38.946981,-84.379583
+Kentucky,CAMPBELL,Dayton Police Department,KY0190300,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,39.112373,-84.47399
+Kentucky,CAMPBELL,Fort Thomas Police Department,KY0190400,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,39.080936,-84.449165
+Kentucky,CAMPBELL,Highland Heights  Police Department,KY0190500,East South Central,South,Region III,City,TRUE,2008-06-01T00:00:00.000Z,38.946981,-84.379583
+Kentucky,CAMPBELL,Newport Police Department,KY0190600,East South Central,South,Region III,City,TRUE,2005-01-01T00:00:00.000Z,39.08723,-84.48889
+Kentucky,CAMPBELL,Alexandria Police Department,KY0190700,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.957138,-84.39424
+Kentucky,CAMPBELL,Southgate Police Department,KY0190800,East South Central,South,Region III,City,TRUE,2012-01-01T00:00:00.000Z,38.946981,-84.379583
+Kentucky,CAMPBELL,Cold Spring Police Department,KY0190900,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,39.00067,-84.42031
+Kentucky,CAMPBELL,Wilder Police Department,KY0191200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,39.05607,-84.486855
+Kentucky,CAMPBELL,Northern Kentucky University,KY0191500,East South Central,South,Region III,University or College,TRUE,2009-01-01T00:00:00.000Z,38.946981,-84.379583
+Kentucky,CARLISLE,Carlisle County Sheriff's Office,KY0200000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,36.857726,-88.975757
+Kentucky,CARLISLE,Bardwell Police Department,KY0200100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.857726,-88.975757
+Kentucky,CARROLL,Carroll County Sheriff's Office,KY0210000,East South Central,South,Region III,County,TRUE,2010-01-01T00:00:00.000Z,38.73744,-85.061615
+Kentucky,CARROLL,Carrollton Police Department,KY0210100,East South Central,South,Region III,City,TRUE,2000-01-01T00:00:00.000Z,38.668284,-85.124083
+Kentucky,CARTER,Carter County Sheriff's Office,KY0220000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.309555,-83.048821
+Kentucky,CARTER,Grayson Police Department,KY0220100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.3317,-82.94438
+Kentucky,CARTER,Olive Hill Police Department,KY0220200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.309555,-83.048821
+Kentucky,CASEY,Casey County Sheriff's Office,KY0230000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.321962,-84.92822
+Kentucky,CASEY,Liberty Police Department,KY0230100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.321962,-84.92822
+Kentucky,CASEY,Casey County Constable District 2,KY0230300,East South Central,South,Region III,Other,TRUE,2019-10-01T00:00:00.000Z,,
+Kentucky,CASEY,Casey County Constable District 1,KY0230400,East South Central,South,Region III,Other,FALSE,,,
+Kentucky,CHRISTIAN,Christian County Sheriff's Office,KY0240000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,36.867123,-87.48955
+Kentucky,CHRISTIAN,Hopkinsville Police Department,KY0240100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.870354,-87.486595
+Kentucky,CHRISTIAN,Pembroke Police Department,KY0240300,East South Central,South,Region III,City,TRUE,2012-01-01T00:00:00.000Z,36.892059,-87.492986
+Kentucky,CHRISTIAN,Oak Grove Police Department,KY0240500,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.892059,-87.492986
+Kentucky,CHRISTIAN,Pennyrile Narcotics Task Force,KY0240600,East South Central,South,Region III,Other,TRUE,2009-01-01T00:00:00.000Z,36.892059,-87.492986
+Kentucky,CHRISTIAN,Christian County Constable District 2,KY0240700,East South Central,South,Region III,Other,FALSE,,,
+Kentucky,CLARK,Clark County Sheriff's Office,KY0250000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.99308,-84.17733
+Kentucky,CLARK,Winchester Police Department,KY0250100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.970133,-84.144974
+Kentucky,CLARK,Clark County School System,KY0250400,East South Central,South,Region III,Other,TRUE,2009-01-01T00:00:00.000Z,37.981075,-84.192696
+Kentucky,CLARK,Clark County Constable,KY0250600,East South Central,South,Region III,Other,TRUE,2020-03-01T00:00:00.000Z,,
+Kentucky,CLAY,Clay County Sheriff's Office,KY0260000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.155434,-83.763435
+Kentucky,CLAY,Manchester Police Department,KY0260100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.164466,-83.710762
+Kentucky,CLINTON,Clinton County Sheriff's Office,KY0270000,East South Central,South,Region III,County,TRUE,2012-01-01T00:00:00.000Z,36.728865,-85.153426
+Kentucky,CLINTON,Albany Police Department,KY0270100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.728865,-85.153426
+Kentucky,CRITTENDEN,Crittenden County Sheriff's Office,KY0280000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.358149,-88.10501
+Kentucky,CRITTENDEN,Marion Police Department,KY0280100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.334797,-88.08108
+Kentucky,CUMBERLAND,Cumberland County Sheriff's Office,KY0290000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,36.784227,-85.393499
+Kentucky,CUMBERLAND,Burkesville Police Department,KY0290100,East South Central,South,Region III,City,TRUE,2010-11-01T00:00:00.000Z,36.784227,-85.393499
+Kentucky,DAVIESS,Daviess County Sheriff's Office,KY0300000,East South Central,South,Region III,County,TRUE,1999-01-01T00:00:00.000Z,37.774654,-87.11237
+Kentucky,DAVIESS,Owensboro Police Department,KY0300100,East South Central,South,Region III,City,TRUE,2007-01-01T00:00:00.000Z,37.731671,-87.087139
+Kentucky,EDMONSON,Edmonson County Sheriff's Office,KY0310000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.227856,-86.217778
+Kentucky,EDMONSON,Brownsville Police Department,KY0310100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.227856,-86.217778
+Kentucky,ELLIOTT,Elliott County Sheriff's Office,KY0320000,East South Central,South,Region III,County,TRUE,2012-01-01T00:00:00.000Z,38.115438,-83.097209
+Kentucky,ESTILL,Estill County Sheriff's Office,KY0330000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.69921,-83.9752
+Kentucky,ESTILL,Irvine Police Department,KY0330100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.692449,-83.963983
+Kentucky,ESTILL,Ravenna Police Department,KY0330200,East South Central,South,Region III,City,TRUE,2010-02-01T00:00:00.000Z,37.685017,-83.95427
+Kentucky,FAYETTE,Fayette County Sheriff's Office,KY0340000,East South Central,South,Region III,County,TRUE,2015-05-01T00:00:00.000Z,38.047245,-84.49579
+Kentucky,FAYETTE,Lexington Police Department,KY0340200,East South Central,South,Region III,City,TRUE,2010-10-01T00:00:00.000Z,38.045673,-84.496284
+Kentucky,FAYETTE,University of Kentucky,KY0340300,East South Central,South,Region III,University or College,TRUE,2001-01-01T00:00:00.000Z,38.037777,-84.4997
+Kentucky,FAYETTE,Fayette County Schools,KY0340400,East South Central,South,Region III,Other,TRUE,2009-01-01T00:00:00.000Z,38.036545,-84.48592
+Kentucky,FAYETTE,Lexington Bluegrass Airport,KY0340500,East South Central,South,Region III,Other,TRUE,2010-04-01T00:00:00.000Z,38.04407,-84.59362
+Kentucky,FAYETTE,Fayette County Constable District 1,KY0340700,East South Central,South,Region III,Other,TRUE,2019-09-01T00:00:00.000Z,,
+Kentucky,FAYETTE,Kentucky Horse Park,KY0340800,East South Central,South,Region III,Other State Agency,TRUE,2009-01-01T00:00:00.000Z,38.040149,-84.458421
+Kentucky,FLEMING,Fleming County Sheriff's Office,KY0350000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.423786,-83.73422
+Kentucky,FLEMING,Flemingsburg Police Department,KY0350100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.421734,-83.7342
+Kentucky,FLOYD,Floyd County Sheriff's Office,KY0360000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.558283,-82.740337
+Kentucky,FLOYD,Prestonsburg Police Department,KY0360100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.672394,-82.73068
+Kentucky,FLOYD,Wheelwright Police Department,KY0360200,East South Central,South,Region III,City,TRUE,2010-06-01T00:00:00.000Z,37.558283,-82.740337
+Kentucky,FLOYD,Martin Police Department,KY0360300,East South Central,South,Region III,City,TRUE,2011-05-01T00:00:00.000Z,37.558283,-82.740337
+Kentucky,FLOYD,Wayland Police Department,KY0360400,East South Central,South,Region III,City,TRUE,2013-06-01T00:00:00.000Z,37.558283,-82.740337
+Kentucky,FLOYD,Allen Police Department,KY0360500,East South Central,South,Region III,City,FALSE,2015-05-01T00:00:00.000Z,37.558283,-82.740337
+Kentucky,FRANKLIN,Franklin County Sheriff's Office,KY0370000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.234919,-84.868786
+Kentucky,FRANKLIN,Frankfort Police Department,KY0370100,East South Central,South,Region III,City,TRUE,2009-05-01T00:00:00.000Z,38.234919,-84.868786
+Kentucky,FRANKLIN,Motor Vehicle Enforcement,KY0370200,East South Central,South,Region III,Other State Agency,TRUE,2009-01-01T00:00:00.000Z,38.234919,-84.868786
+Kentucky,FRANKLIN,Park Security,KY0370300,East South Central,South,Region III,Other State Agency,TRUE,2009-01-01T00:00:00.000Z,38.234919,-84.868786
+Kentucky,FRANKLIN,Kentucky State University,KY0370500,East South Central,South,Region III,University or College,TRUE,2009-01-01T00:00:00.000Z,38.19979,-84.85649
+Kentucky,FRANKLIN,Forestry Enforcement,KY0370800,East South Central,South,Region III,Other State Agency,FALSE,2015-05-01T00:00:00.000Z,38.215393,-84.839195
+Kentucky,FRANKLIN,Fish and Wildlife Enforcement,KY0371200,East South Central,South,Region III,Other State Agency,TRUE,2012-01-01T00:00:00.000Z,38.173565,-84.92247
+Kentucky,FRANKLIN,Alcohol Beverage Control Enforcement Division,KY0371400,East South Central,South,Region III,Other State Agency,TRUE,2012-10-01T00:00:00.000Z,38.157974,-84.89956
+Kentucky,FRANKLIN,Department of Agriculture Animal Health Enforcement Division,KY0371800,East South Central,South,Region III,Other State Agency,TRUE,2015-04-01T00:00:00.000Z,38.234919,-84.868786
+Kentucky,FRANKLIN,Franklin County Constable District 1,KY0372200,East South Central,South,Region III,Other,FALSE,2010-01-01T00:00:00.000Z,38.130898,-84.932655
+Kentucky,FULTON,Fulton County Sheriff's Office,KY0380000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,36.55262,-89.187723
+Kentucky,FULTON,Fulton Police Department,KY0380100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.55262,-89.187723
+Kentucky,FULTON,Hickman Police Department,KY0380200,East South Central,South,Region III,City,TRUE,2015-05-01T00:00:00.000Z,36.55262,-89.187723
+Kentucky,GALLATIN,Gallatin County Sheriff's Office,KY0390000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.760107,-84.862151
+Kentucky,GALLATIN,Warsaw Police Department,KY0390100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.760107,-84.862151
+Kentucky,GARRARD,Garrard County Sheriff's Office,KY0400000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.630162,-84.545856
+Kentucky,GARRARD,Lancaster Police Department,KY0400100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.621395,-84.58586
+Kentucky,GARRARD,Garrard County Constable District 2,KY0400200,East South Central,South,Region III,Other,TRUE,2019-10-01T00:00:00.000Z,,
+Kentucky,GARRARD,Garrard County Constable District 1,KY0400600,East South Central,South,Region III,Other,FALSE,2017-01-01T00:00:00.000Z,37.630162,-84.545856
+Kentucky,GARRARD,Garrard County Police Department,KY0400800,East South Central,South,Region III,County,TRUE,2016-09-01T00:00:00.000Z,,
+Kentucky,GRANT,Grant County Sheriff's Office,KY0410000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.637524,-84.560555
+Kentucky,GRANT,Williamstown Police Department,KY0410100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.64921,-84.625946
+Kentucky,GRANT,Dry Ridge Police Department,KY0410200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.64921,-84.625946
+Kentucky,GRAVES,Graves County Sheriff's Office,KY0420000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,36.74067,-88.635704
+Kentucky,GRAVES,Mayfield Police Department,KY0420100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.741657,-88.637344
+Kentucky,GRAVES,Graves County Constable District 2,KY0420400,East South Central,South,Region III,Other,FALSE,,,
+Kentucky,GRAVES,Graves County Schools,KY0420700,East South Central,South,Region III,Other,TRUE,2009-01-01T00:00:00.000Z,36.723344,-88.649897
+Kentucky,GRAYSON,Grayson County Sheriff's Office,KY0430000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.458577,-86.344011
+Kentucky,GRAYSON,Leitchfield Police Department,KY0430100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.48007,-86.29276
+Kentucky,GRAYSON,Caneyville Police Department,KY0430200,East South Central,South,Region III,City,FALSE,2015-05-01T00:00:00.000Z,37.458577,-86.344011
+Kentucky,GRAYSON,Clarkson Police Department,KY0430300,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.458577,-86.344011
+Kentucky,GREEN,Green County Sheriff's Office,KY0440000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.261383,-85.50374
+Kentucky,GREEN,Greensburg Police Department,KY0440100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.262486,-85.501656
+Kentucky,GREENUP,Greenup County Sheriff's Office,KY0450000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.563596,-82.933832
+Kentucky,GREENUP,Flatwoods Police Department,KY0450100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.515682,-82.723404
+Kentucky,GREENUP,Greenup Police Department,KY0450200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.574684,-82.83243
+Kentucky,GREENUP,Raceland Police Department,KY0450300,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.541397,-82.73063
+Kentucky,GREENUP,South Shore Police Department,KY0450400,East South Central,South,Region III,City,TRUE,2010-01-01T00:00:00.000Z,38.724247,-82.9654
+Kentucky,GREENUP,Russell Police Department,KY0450500,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.563596,-82.933832
+Kentucky,GREENUP,Worthington Police Department,KY0450600,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.563596,-82.933832
+Kentucky,GREENUP,Bellefonte Police Department,KY0451000,East South Central,South,Region III,City,TRUE,2009-06-01T00:00:00.000Z,38.491722,-82.68829
+Kentucky,HANCOCK,Hancock County Sheriff's Office,KY0460000,East South Central,South,Region III,County,TRUE,2009-12-01T00:00:00.000Z,37.843325,-86.792761
+Kentucky,HANCOCK,Hawesville Police Department,KY0460100,East South Central,South,Region III,City,TRUE,2010-05-01T00:00:00.000Z,37.843325,-86.792761
+Kentucky,HANCOCK,Lewisport Police Department,KY0460200,East South Central,South,Region III,City,TRUE,2010-03-01T00:00:00.000Z,37.843325,-86.792761
+Kentucky,HARDIN,Hardin County Sheriff's Office,KY0470000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.693172,-85.857796
+Kentucky,HARDIN,Elizabethtown Police Department,KY0470100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.687885,-85.86853
+Kentucky,HARDIN,Radcliff Police Department,KY0470200,East South Central,South,Region III,City,TRUE,2008-10-01T00:00:00.000Z,37.838306,-85.94496
+Kentucky,HARDIN,Vine Grove Police Department,KY0470300,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.695836,-85.963183
+Kentucky,HARDIN,West Point Police Department,KY0470400,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.000317,-85.94753
+Kentucky,HARDIN,Hardin County Constable District 4,KY0470700,East South Central,South,Region III,Other,FALSE,2015-01-01T00:00:00.000Z,37.738125,-86.026924
+Kentucky,HARDIN,Greater Hardin County Narcotics Task Force,KY0471500,East South Central,South,Region III,Other,TRUE,2009-01-01T00:00:00.000Z,37.682365,-85.89936
+Kentucky,HARLAN,Harlan County Sheriff's Office,KY0480000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,36.859223,-83.221497
+Kentucky,HARLAN,Cumberland Police Department,KY0480100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.975155,-82.981926
+Kentucky,HARLAN,Harlan Police Department,KY0480200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.859223,-83.221497
+Kentucky,HARLAN,Loyall Police Department,KY0480300,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.859223,-83.221497
+Kentucky,HARLAN,Lynch Police Department,KY0480400,East South Central,South,Region III,City,FALSE,2009-01-01T00:00:00.000Z,36.859223,-83.221497
+Kentucky,HARLAN,Evarts Police Department,KY0480500,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.859223,-83.221497
+Kentucky,HARLAN,Benham Police Department,KY0480600,East South Central,South,Region III,City,FALSE,2009-01-01T00:00:00.000Z,36.859223,-83.221497
+Kentucky,HARRISON,Harrison County Sheriff's Office,KY0490000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.388958,-84.29589
+Kentucky,HARRISON,Cynthiana Police Department,KY0490100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.444578,-84.334131
+Kentucky,HARRISON,Bluegrass Narcotics Task Force,KY0491000,East South Central,South,Region III,Other,TRUE,2018-01-01T00:00:00.000Z,,
+Kentucky,HART,Hart County Sheriff's Office,KY0500000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.313856,-85.881994
+Kentucky,HART,Horse Cave Police Department,KY0500100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.313856,-85.881994
+Kentucky,HART,Munfordville Police Department,KY0500200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.313856,-85.881994
+Kentucky,HENDERSON,Henderson County Sheriff's Office,KY0510000,East South Central,South,Region III,County,TRUE,2005-01-01T00:00:00.000Z,37.83887,-87.5929
+Kentucky,HENDERSON,Henderson Police Department,KY0510100,East South Central,South,Region III,City,TRUE,2007-01-01T00:00:00.000Z,37.792542,-87.572577
+Kentucky,HENRY,Henry County Sheriff's Office,KY0520000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.451561,-85.120079
+Kentucky,HENRY,Eminence Police Department,KY0520200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.451561,-85.120079
+Kentucky,HENRY,Campbellsburg Police Department,KY0520400,East South Central,South,Region III,City,FALSE,2015-05-01T00:00:00.000Z,38.451561,-85.120079
+Kentucky,HICKMAN,Hickman County Sheriff's Office,KY0530000,East South Central,South,Region III,County,TRUE,2010-12-01T00:00:00.000Z,36.675916,-88.97202
+Kentucky,HICKMAN,Clinton Police Department,KY0530100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.675916,-88.97202
+Kentucky,HOPKINS,Hopkins County Sheriff's Office,KY0540000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.328243,-87.49925
+Kentucky,HOPKINS,Madisonville Police Department,KY0540100,East South Central,South,Region III,City,TRUE,2007-01-01T00:00:00.000Z,37.32837,-87.50038
+Kentucky,HOPKINS,Dawson Springs Police Department,KY0540200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.31107,-87.542196
+Kentucky,JACKSON,Jackson County Sheriff's Office,KY0550000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.40332,-84.020686
+Kentucky,JACKSON,McKee Police Department,KY0550100,East South Central,South,Region III,City,TRUE,2011-05-01T00:00:00.000Z,37.40332,-84.020686
+Kentucky,JACKSON,Jackson County Police Department,KY0550200,East South Central,South,Region III,County,FALSE,2012-01-01T00:00:00.000Z,37.40332,-84.020686
+Kentucky,JEFFERSON,Jefferson County Sheriff's Office,KY0560000,East South Central,South,Region III,County,TRUE,2016-01-01T00:00:00.000Z,38.25477,-85.75909
+Kentucky,JEFFERSON,Jefferson County Police Department,KY0560100,East South Central,South,Region III,County,FALSE,2014-01-01T00:00:00.000Z,38.240913,-85.73171
+Kentucky,JEFFERSON,St. Matthews Police Department,KY0560300,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.249447,-85.65038
+Kentucky,JEFFERSON,Shively Police Department,KY0560400,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.194565,-85.80658
+Kentucky,JEFFERSON,Anchorage Police Department,KY0560500,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.26566,-85.54104
+Kentucky,JEFFERSON,West Buechel Police Department,KY0560600,East South Central,South,Region III,City,TRUE,2012-01-01T00:00:00.000Z,38.189533,-85.657624
+Kentucky,JEFFERSON,Jeffersontown Police Department,KY0561000,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.193645,-85.56483
+Kentucky,JEFFERSON,Woodlawn Park,KY0561400,East South Central,South,Region III,City,TRUE,2019-04-01T00:00:00.000Z,,
+Kentucky,JEFFERSON,University of Louisville,KY0561500,East South Central,South,Region III,University or College,TRUE,2009-01-01T00:00:00.000Z,38.216854,-85.75473
+Kentucky,JEFFERSON,Kentucky Fairgrounds Security,KY0561700,East South Central,South,Region III,Other State Agency,FALSE,2009-01-01T00:00:00.000Z,38.189533,-85.657624
+Kentucky,JEFFERSON,Heritage Creek Police Department,KY0561800,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.095707,-85.61502
+Kentucky,JEFFERSON,Audubon Park Police Department,KY0561900,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.07437,-85.66532
+Kentucky,JEFFERSON,Meadow Vale Police Department,KY0562300,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.288677,-85.57798
+Kentucky,JEFFERSON,Strathmoor Village Police Department,KY0563600,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.218044,-85.6777
+Kentucky,JEFFERSON,Northfield Police Department,KY0563800,East South Central,South,Region III,City,TRUE,2011-11-01T00:00:00.000Z,38.189533,-85.657624
+Kentucky,JEFFERSON,Indian Hills Police Department,KY0564400,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.289185,-85.68294
+Kentucky,"JEFFERSON, OLDHAM",Prospect Police Department,KY0564500,East South Central,South,Region III,City,TRUE,2010-12-01T00:00:00.000Z,38.189533,-85.657624
+Kentucky,JEFFERSON,Graymoor-Devondale Police Department,KY0565000,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.189533,-85.657624
+Kentucky,JEFFERSON,Jefferson County School District,KY0565200,East South Central,South,Region III,Other,TRUE,2009-01-01T00:00:00.000Z,38.20373,-85.750725
+Kentucky,JEFFERSON,Bancroft,KY0565300,East South Central,South,Region III,City,TRUE,2019-04-01T00:00:00.000Z,,
+Kentucky,JEFFERSON,Alcohol Beverage Control Investigative Division,KY0566100,East South Central,South,Region III,Other State Agency,TRUE,2014-12-01T00:00:00.000Z,38.189533,-85.657624
+Kentucky,JEFFERSON,Windy Hills,KY0566200,East South Central,South,Region III,City,TRUE,2019-01-01T00:00:00.000Z,,
+Kentucky,JEFFERSON,Hurstbourne Acres Police Department,KY0566400,East South Central,South,Region III,City,TRUE,2010-06-01T00:00:00.000Z,38.218185,-85.58555
+Kentucky,JEFFERSON,Middletown,KY0566700,East South Central,South,Region III,City,TRUE,2018-05-01T00:00:00.000Z,,
+Kentucky,JEFFERSON,Louisville Regional Airport Authority,KY0566900,East South Central,South,Region III,Other,TRUE,2009-01-01T00:00:00.000Z,38.189533,-85.657624
+Kentucky,JEFFERSON,Jefferson County Constable District 1,KY0567700,East South Central,South,Region III,Other,TRUE,2019-07-01T00:00:00.000Z,,
+Kentucky,JEFFERSON,Jefferson County Constable District 2,KY0567800,East South Central,South,Region III,Other,TRUE,2017-01-01T00:00:00.000Z,,
+Kentucky,JEFFERSON,Jefferson County Constable District 3,KY0567900,East South Central,South,Region III,Other,FALSE,,,
+Kentucky,JEFFERSON,Louisville Metro Police Department,KY0568000,East South Central,South,Region III,City,TRUE,2013-01-01T00:00:00.000Z,38.254276,-85.760895
+Kentucky,JESSAMINE,Jessamine County Sheriff's Office,KY0570000,East South Central,South,Region III,County,TRUE,2008-06-01T00:00:00.000Z,37.880703,-84.57445
+Kentucky,JESSAMINE,Nicholasville Police Department,KY0570100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.885975,-84.570656
+Kentucky,JESSAMINE,Wilmore Police Department,KY0570200,East South Central,South,Region III,City,TRUE,2005-11-01T00:00:00.000Z,37.85867,-84.65958
+Kentucky,JOHNSON,Johnson County Sheriff's Office,KY0580000,East South Central,South,Region III,County,TRUE,2009-11-01T00:00:00.000Z,37.81498,-82.8065
+Kentucky,JOHNSON,Paintsville Police Department,KY0580100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.84926,-82.830639
+Kentucky,JOHNSON,Johnson County Constable District 2,KY0580300,East South Central,South,Region III,Other,TRUE,2019-04-01T00:00:00.000Z,,
+Kentucky,KENTON,Kenton County Sheriff's Office,KY0590000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,39.08857,-84.50888
+Kentucky,KENTON,Covington Police Department,KY0590100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.930477,-84.533492
+Kentucky,KENTON,Elsmere Police Department,KY0590200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,39.00639,-84.614204
+Kentucky,KENTON,Erlanger Police Department,KY0590300,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,39.023567,-84.60823
+Kentucky,KENTON,Fort Wright Police Department,KY0590400,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,39.05317,-84.53542
+Kentucky,KENTON,Kenton County Police Department,KY0590500,East South Central,South,Region III,County,TRUE,2006-07-01T00:00:00.000Z,38.91117,-84.54626
+Kentucky,KENTON,Park Hills Police Department,KY0590600,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,39.07152,-84.532616
+Kentucky,KENTON,Ludlow Police Department,KY0590700,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.930477,-84.533492
+Kentucky,KENTON,Lakeside Park-Crestview Hills Police Department,KY0591000,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.930477,-84.533492
+Kentucky,KENTON,Taylor Mill Police Department,KY0591100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.977615,-84.50171
+Kentucky,KENTON,Villa Hills Police Department,KY0591200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,39.051662,-84.59707
+Kentucky,KENTON,Fort Mitchell Police Department,KY0591300,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.930477,-84.533492
+Kentucky,KENTON,Edgewood Police Department,KY0591700,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,39.00818,-84.56576
+Kentucky,KENTON,Independence Police Department,KY0591900,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.933533,-84.544464
+Kentucky,KENTON,Northern Kentucky Drug Strike Force,KY0592600,East South Central,South,Region III,Other,TRUE,2009-12-01T00:00:00.000Z,38.930477,-84.533492
+Kentucky,KNOTT,Knott County Sheriff's Office,KY0600000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.354703,-82.949138
+Kentucky,KNOTT,Pippa Passes Police Department,KY0600200,East South Central,South,Region III,City,TRUE,2015-05-01T00:00:00.000Z,37.354703,-82.949138
+Kentucky,KNOTT,Knott County Police Department,KY0600500,East South Central,South,Region III,County,FALSE,,,
+Kentucky,KNOX,Knox County Sheriff's Office,KY0610000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,36.887476,-83.85563
+Kentucky,KNOX,Barbourville Police Department,KY0610100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.887476,-83.85563
+Kentucky,LARUE,Larue County Sheriff's Office,KY0620000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.572735,-85.73919
+Kentucky,LARUE,Hodgenville Police Department,KY0620100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.57546,-85.74037
+Kentucky,LAUREL,Laurel County Sheriff's Office,KY0630000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.127853,-84.083916
+Kentucky,LAUREL,London Police Department,KY0630100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.125866,-84.08101
+Kentucky,LAUREL,Laurel County Constable District 6,KY0630300,East South Central,South,Region III,Other,FALSE,,,
+Kentucky,LAWRENCE,Lawrence County Sheriff's Office,KY0640000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.074453,-82.738316
+Kentucky,LAWRENCE,Louisa Police Department,KY0640100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.074453,-82.738316
+Kentucky,LAWRENCE,Lawrence County Constable District 3,KY0640500,East South Central,South,Region III,Other,TRUE,2019-10-01T00:00:00.000Z,,
+Kentucky,LEE,Lee County Sheriff's Office,KY0650000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.607902,-83.719309
+Kentucky,LEE,Beattyville Police Department,KY0650100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.607902,-83.719309
+Kentucky,LESLIE,Leslie County Sheriff's Office,KY0660000,East South Central,South,Region III,County,TRUE,2012-01-01T00:00:00.000Z,37.087846,-83.388617
+Kentucky,LESLIE,Hyden Police Department,KY0660100,East South Central,South,Region III,City,TRUE,2015-05-01T00:00:00.000Z,37.087846,-83.388617
+Kentucky,LETCHER,Letcher County Sheriff's Office,KY0670000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.118503,-82.861175
+Kentucky,LETCHER,Whitesburg Police Department,KY0670100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.11855,-82.82749
+Kentucky,LETCHER,Jenkins Police Department,KY0670200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.118503,-82.861175
+Kentucky,LETCHER,Fleming-Neon Police Department,KY0670300,East South Central,South,Region III,City,TRUE,2010-05-01T00:00:00.000Z,37.118503,-82.861175
+Kentucky,LEWIS,Lewis County Sheriff's Office,KY0680000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.532054,-83.37329
+Kentucky,LEWIS,Vanceburg Police Department,KY0680100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.532054,-83.37329
+Kentucky,LEWIS,Lewis County Constable District 2,KY0680300,East South Central,South,Region III,Other,FALSE,,,
+Kentucky,LINCOLN,Lincoln County Sheriff's Office,KY0690000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.457174,-84.658335
+Kentucky,LINCOLN,Stanford Police Department,KY0690100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.457174,-84.658335
+Kentucky,LINCOLN,Hustonville Police Department,KY0690200,East South Central,South,Region III,City,TRUE,2015-05-01T00:00:00.000Z,37.457174,-84.658335
+Kentucky,LINCOLN,Crab Orchard Police Department,KY0690300,East South Central,South,Region III,City,TRUE,2015-05-01T00:00:00.000Z,37.457174,-84.658335
+Kentucky,LINCOLN,Lincoln County Constable District 4,KY0690400,East South Central,South,Region III,Other,FALSE,,,
+Kentucky,LIVINGSTON,Livingston County Sheriff's Office,KY0700000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.209517,-88.363426
+Kentucky,LOGAN,Logan County Sheriff's Office,KY0710000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,36.859829,-86.881436
+Kentucky,LOGAN,Russellville Police Department,KY0710100,East South Central,South,Region III,City,TRUE,2001-01-01T00:00:00.000Z,36.859829,-86.881436
+Kentucky,LOGAN,Auburn Police Department,KY0710200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.859829,-86.881436
+Kentucky,LOGAN,Adairville Police Department,KY0710300,East South Central,South,Region III,City,TRUE,2013-01-01T00:00:00.000Z,36.859829,-86.881436
+Kentucky,LOGAN,Lewisburg Police Department,KY0710400,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.859829,-86.881436
+Kentucky,LOGAN,South Central Kentucky Drug Task Force,KY0710900,East South Central,South,Region III,Other,TRUE,2009-01-01T00:00:00.000Z,-9,-9
+Kentucky,LYON,Lyon County Sheriff's Office,KY0720000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.023976,-88.083391
+Kentucky,LYON,Eddyville Police Department,KY0720200,East South Central,South,Region III,City,TRUE,2002-01-01T00:00:00.000Z,37.023976,-88.083391
+Kentucky,MCCRACKEN,McCracken County Sheriff's Office,KY0730000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.083607,-88.59927
+Kentucky,MCCRACKEN,Paducah Police Department,KY0730100,East South Central,South,Region III,City,TRUE,1997-12-01T00:00:00.000Z,37.053683,-88.712366
+Kentucky,MCCRACKEN,McCracken County Public Schools,KY0730700,East South Central,South,Region III,Other,TRUE,2010-02-01T00:00:00.000Z,37.053683,-88.712366
+Kentucky,MCCREARY,McCreary County Sheriff's Office,KY0740000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,36.731136,-84.491052
+Kentucky,MCCREARY,McCreary County Constable District 3,KY0741200,East South Central,South,Region III,Other,TRUE,2019-12-01T00:00:00.000Z,,
+Kentucky,MCLEAN,McLean County Sheriff's Office,KY0750000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.530575,-87.262931
+Kentucky,MADISON,Madison County Sheriff's Office,KY0760000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.744884,-84.27752
+Kentucky,MADISON,Berea Police Department,KY0760100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.723528,-84.277008
+Kentucky,MADISON,Richmond Police Department,KY0760200,East South Central,South,Region III,City,TRUE,2000-01-01T00:00:00.000Z,37.723528,-84.277008
+Kentucky,MADISON,Eastern Kentucky University,KY0760300,East South Central,South,Region III,University or College,TRUE,2009-01-01T00:00:00.000Z,37.723528,-84.277008
+Kentucky,MAGOFFIN,Magoffin County Sheriff's Office,KY0770000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.698953,-83.069716
+Kentucky,MAGOFFIN,Salyersville Police Department,KY0770100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.698953,-83.069716
+Kentucky,MARION,Marion County Sheriff's Office,KY0780000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.568565,-85.25187
+Kentucky,MARION,Lebanon Police Department,KY0780100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.552604,-85.268959
+Kentucky,MARSHALL,Marshall County Sheriff's Office,KY0790000,East South Central,South,Region III,County,TRUE,2001-01-01T00:00:00.000Z,36.882017,-88.332752
+Kentucky,MARSHALL,Benton Police Department,KY0790100,East South Central,South,Region III,City,TRUE,2000-07-01T00:00:00.000Z,36.85801,-88.35075
+Kentucky,MARSHALL,Calvert City Police Department,KY0790200,East South Central,South,Region III,City,TRUE,2001-04-01T00:00:00.000Z,36.882017,-88.332752
+Kentucky,MARTIN,Martin County Sheriff's Office,KY0800000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.796774,-82.506623
+Kentucky,MASON,Mason County Sheriff's Office,KY0810000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.594068,-83.828052
+Kentucky,MASON,Maysville Police Department,KY0810100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.646015,-83.761024
+Kentucky,MEADE,Meade County Sheriff's Office,KY0820000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.00081,-86.17289
+Kentucky,MEADE,Brandenburg Police Department,KY0820100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.967476,-86.200863
+Kentucky,MEADE,Muldraugh Police Department,KY0820200,East South Central,South,Region III,City,TRUE,2009-04-01T00:00:00.000Z,37.938435,-85.990654
+Kentucky,MENIFEE,Menifee County Sheriff's Office,KY0830000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.950717,-83.597344
+Kentucky,MERCER,Mercer County Sheriff's Office,KY0840000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.812085,-84.879694
+Kentucky,MERCER,Harrodsburg Police Department,KY0840100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.7669,-84.84166
+Kentucky,MERCER,Burgin Police Department,KY0840200,East South Central,South,Region III,City,TRUE,2016-08-01T00:00:00.000Z,37.812085,-84.879694
+Kentucky,METCALFE,Metcalfe County Sheriff's Office,KY0850000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,36.992647,-85.63369
+Kentucky,METCALFE,Edmonton Police Department,KY0850100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.992647,-85.63369
+Kentucky,METCALFE,Metcalfe County Schools,KY0850400,East South Central,South,Region III,Other,TRUE,2019-05-01T00:00:00.000Z,,
+Kentucky,MONROE,Monroe County Sheriff's Office,KY0860000,East South Central,South,Region III,County,TRUE,2011-03-01T00:00:00.000Z,36.69852,-85.695045
+Kentucky,MONROE,Tompkinsville Police Department,KY0860100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.700085,-85.692024
+Kentucky,MONROE,Fountain Run Police Department,KY0860300,East South Central,South,Region III,City,TRUE,2015-05-01T00:00:00.000Z,36.714077,-85.713508
+Kentucky,MONTGOMERY,Montgomery County Sheriff's Office,KY0870000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.056194,-83.94324
+Kentucky,MONTGOMERY,Mount Sterling Police Department,KY0870100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.053787,-83.95684
+Kentucky,MONTGOMERY,Montgomery County School District,KY0870200,East South Central,South,Region III,Other,TRUE,2009-01-01T00:00:00.000Z,38.045876,-83.94194
+Kentucky,MONTGOMERY,Montgomery County Constable District 2,KY0870400,East South Central,South,Region III,Other,TRUE,2019-10-01T00:00:00.000Z,,
+Kentucky,MONTGOMERY,Gateway Area Drug Task Force,KY0870600,East South Central,South,Region III,Other,TRUE,2018-05-01T00:00:00.000Z,,
+Kentucky,MORGAN,Morgan County Sheriff's Office,KY0880000,East South Central,South,Region III,County,TRUE,2016-09-01T00:00:00.000Z,37.92294,-83.258944
+Kentucky,MORGAN,West Liberty Police Department,KY0880100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.92294,-83.258944
+Kentucky,MUHLENBERG,Muhlenberg County Sheriff's Office,KY0890000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.213816,-87.134092
+Kentucky,MUHLENBERG,Greenville Police Department,KY0890100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.213816,-87.134092
+Kentucky,MUHLENBERG,Central City Police Department,KY0890200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.213816,-87.134092
+Kentucky,MUHLENBERG,Powderly Police Department,KY0890400,East South Central,South,Region III,City,FALSE,2010-04-01T00:00:00.000Z,37.213816,-87.134092
+Kentucky,MUHLENBERG,Muhlenberg County Police Department,KY0890700,East South Central,South,Region III,County,FALSE,2013-02-01T00:00:00.000Z,37.213816,-87.134092
+Kentucky,MUHLENBERG,Muhlenberg County Constable District 5,KY0891000,East South Central,South,Region III,Other,FALSE,2009-02-01T00:00:00.000Z,37.213816,-87.134092
+Kentucky,NELSON,Nelson County Sheriff's Office,KY0900000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.806103,-85.45096
+Kentucky,NELSON,Bardstown Police Department,KY0900100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.81244,-85.46941
+Kentucky,NELSON,Bloomfield Police Department,KY0900200,East South Central,South,Region III,City,TRUE,2012-01-01T00:00:00.000Z,37.803188,-85.465955
+Kentucky,NELSON,New Haven Police Department,KY0900400,East South Central,South,Region III,City,TRUE,2010-06-01T00:00:00.000Z,37.803188,-85.465955
+Kentucky,NICHOLAS,Nicholas County Sheriff's Office,KY0910000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.337132,-84.025554
+Kentucky,NICHOLAS,Carlisle Police Department,KY0910100,East South Central,South,Region III,City,TRUE,2010-02-01T00:00:00.000Z,38.312286,-84.0276
+Kentucky,OHIO,Ohio County Sheriff's Office,KY0920000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.477859,-86.844871
+Kentucky,OHIO,Hartford Police Department,KY0920100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.477859,-86.844871
+Kentucky,OHIO,Beaver Dam Police Department,KY0920200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.477859,-86.844871
+Kentucky,OHIO,Centertown Police Department,KY0920400,East South Central,South,Region III,City,TRUE,2011-04-01T00:00:00.000Z,37.477859,-86.844871
+Kentucky,OHIO,Ohio County Constable District 3,KY0920800,East South Central,South,Region III,Other,FALSE,,,
+Kentucky,OHIO,Ohio County School System,KY0921100,East South Central,South,Region III,Other,FALSE,2009-01-01T00:00:00.000Z,37.477859,-86.844871
+Kentucky,OLDHAM,Oldham County Sheriff's Office,KY0930000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.41098,-85.461105
+Kentucky,OLDHAM,La Grange Police Department,KY0930100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.410076,-85.37376
+Kentucky,OLDHAM,Pewee Valley Police Department,KY0930300,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.310127,-85.488525
+Kentucky,OLDHAM,Oldham County Police Department,KY0930400,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.41098,-85.461105
+Kentucky,OWEN,Owen County Sheriff's Office,KY0940000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.53603,-84.83784
+Kentucky,OWEN,Owenton Police Department,KY0940100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.499588,-84.841492
+Kentucky,OWSLEY,Owsley County Sheriff's Office,KY0950000,East South Central,South,Region III,County,TRUE,2011-01-01T00:00:00.000Z,37.423614,-83.691628
+Kentucky,OWSLEY,Booneville Police Department,KY0950100,East South Central,South,Region III,City,TRUE,2015-05-01T00:00:00.000Z,37.423614,-83.691628
+Kentucky,OWSLEY,Owsley County Constable District 2,KY0950300,East South Central,South,Region III,Other,FALSE,,,
+Kentucky,PENDLETON,Pendleton County Sheriff's Office,KY0960000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.696284,-84.351944
+Kentucky,PENDLETON,Falmouth Police Department,KY0960100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.677742,-84.32957
+Kentucky,PENDLETON,Butler Police Department,KY0960200,East South Central,South,Region III,City,FALSE,2015-05-01T00:00:00.000Z,38.696284,-84.351944
+Kentucky,PERRY,Perry County Sheriff's Office,KY0970000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.241282,-83.217772
+Kentucky,PERRY,Hazard Police Department,KY0970100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.241282,-83.217772
+Kentucky,PIKE,Pike County Sheriff's Office,KY0980000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.482067,-82.402869
+Kentucky,PIKE,Pikeville Police Department,KY0980100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.48007,-82.518326
+Kentucky,PIKE,Elkhorn City Police Department,KY0980200,East South Central,South,Region III,City,TRUE,2014-06-01T00:00:00.000Z,37.482067,-82.402869
+Kentucky,PIKE,Coal Run Village Police Department,KY0980500,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.51611,-82.56422
+Kentucky,POWELL,Powell County Sheriff's Office,KY0990000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.800423,-83.819883
+Kentucky,POWELL,Stanton Police Department,KY0990100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.800423,-83.819883
+Kentucky,POWELL,Clay City Police Department,KY0990200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.800423,-83.819883
+Kentucky,PULASKI,Pulaski County Sheriff's Office,KY1000000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.108312,-84.579986
+Kentucky,PULASKI,Somerset Police Department,KY1000100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.108312,-84.579986
+Kentucky,PULASKI,Burnside Police Department,KY1000200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.108312,-84.579986
+Kentucky,"LINCOLN, PULASKI",Eubank Police Department,KY1000300,East South Central,South,Region III,City,TRUE,2015-05-01T00:00:00.000Z,37.108312,-84.579986
+Kentucky,PULASKI,Science Hill Police Department,KY1000400,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.108312,-84.579986
+Kentucky,PULASKI,Ferguson Police Department,KY1000500,East South Central,South,Region III,City,TRUE,2009-11-01T00:00:00.000Z,37.108312,-84.579986
+Kentucky,PULASKI,Lake Cumberland Area Drug Enforcement Task Force,KY1000600,East South Central,South,Region III,Other,TRUE,2009-01-01T00:00:00.000Z,37.108312,-84.579986
+Kentucky,PULASKI,Pulaski County Constable District 3,KY1000700,East South Central,South,Region III,Other,FALSE,2019-01-01T00:00:00.000Z,,
+Kentucky,PULASKI,Pulaski County Constable District 5,KY1000900,East South Central,South,Region III,Other,FALSE,2014-06-01T00:00:00.000Z,37.108312,-84.579986
+Kentucky,PULASKI,Pulaski County Constable District 4,KY1001100,East South Central,South,Region III,Other,TRUE,2019-01-01T00:00:00.000Z,,
+Kentucky,PULASKI,Unlawful Narcotics Investigation Treatment and Education,KY1001200,East South Central,South,Region III,Other State Agency,TRUE,2009-01-01T00:00:00.000Z,37.108312,-84.579986
+Kentucky,PULASKI,Pulaski County Constable District 1,KY1001300,East South Central,South,Region III,Other,FALSE,2018-07-01T00:00:00.000Z,,
+Kentucky,ROBERTSON,Robertson County Sheriff's Office,KY1010000,East South Central,South,Region III,County,TRUE,2013-08-01T00:00:00.000Z,38.513826,-84.063757
+Kentucky,ROCKCASTLE,Rockcastle County Sheriff's Office,KY1020000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.352505,-84.33721
+Kentucky,ROCKCASTLE,Livingston Police Department,KY1020100,East South Central,South,Region III,City,TRUE,2014-01-01T00:00:00.000Z,37.36105,-84.314368
+Kentucky,ROCKCASTLE,Mount Vernon Police Department,KY1020200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.36105,-84.314368
+Kentucky,ROCKCASTLE,Brodhead Police Department,KY1020300,East South Central,South,Region III,City,TRUE,2015-05-01T00:00:00.000Z,37.36105,-84.314368
+Kentucky,ROWAN,Rowan County Sheriff's Office,KY1030000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.17511,-83.439575
+Kentucky,ROWAN,Morehead Police Department,KY1030100,East South Central,South,Region III,City,TRUE,2000-02-01T00:00:00.000Z,38.180748,-83.43604
+Kentucky,ROWAN,Morehead State University,KY1030200,East South Central,South,Region III,University or College,TRUE,2009-01-01T00:00:00.000Z,38.205852,-83.425949
+Kentucky,RUSSELL,Russell County Sheriff's Office,KY1040000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,36.989127,-85.058976
+Kentucky,RUSSELL,Jamestown Police Department,KY1040100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.989127,-85.058976
+Kentucky,RUSSELL,Russell Springs Police Department,KY1040200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.989127,-85.058976
+Kentucky,RUSSELL,Russell County Constable District 3,KY1040400,East South Central,South,Region III,Other,TRUE,2019-01-01T00:00:00.000Z,,
+Kentucky,SCOTT,Scott County Sheriff's Office,KY1050000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.210552,-84.55804
+Kentucky,SCOTT,Georgetown Police Department,KY1050100,East South Central,South,Region III,City,TRUE,2008-07-01T00:00:00.000Z,38.289882,-84.579376
+Kentucky,SCOTT,Stamping Ground Police Department,KY1050200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.289882,-84.579376
+Kentucky,SCOTT,Sadieville Police Department,KY1050300,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.289882,-84.579376
+Kentucky,SCOTT,Scott County Constable District 5,KY1051000,East South Central,South,Region III,Other,FALSE,,38.277054,-84.54076
+Kentucky,SHELBY,Shelby County Sheriff's Office,KY1060000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.210976,-85.21582
+Kentucky,SHELBY,Shelbyville Police Department,KY1060100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.21079,-85.212906
+Kentucky,SHELBY,Simpsonville Police Department,KY1060900,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.239426,-85.22836
+Kentucky,SIMPSON,Simpson County Sheriff's Office,KY1070000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,36.740947,-86.581747
+Kentucky,SIMPSON,Franklin Police Department,KY1070100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.740947,-86.581747
+Kentucky,SPENCER,Spencer County Sheriff's Office,KY1080000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.024908,-85.316758
+Kentucky,SPENCER,Taylorsville Police Department,KY1080100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,38.024908,-85.316758
+Kentucky,TAYLOR,Taylor County Sheriff's Office,KY1090000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.33881,-85.34253
+Kentucky,TAYLOR,Campbellsville Police Department,KY1090100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.34084,-85.34592
+Kentucky,TAYLOR,Taylor County Constable District 4,KY1090500,East South Central,South,Region III,Other,FALSE,2018-01-01T00:00:00.000Z,,
+Kentucky,TAYLOR,Taylor County Constable District 2,KY1090800,East South Central,South,Region III,Other,FALSE,,,
+Kentucky,TAYLOR,Taylor County Schools,KY1091000,East South Central,South,Region III,Other,TRUE,2021-01-01T00:00:00.000Z,,
+Kentucky,TODD,Todd County Sheriff's Office,KY1100000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,36.840338,-87.183642
+Kentucky,TODD,Elkton Police Department,KY1100100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.840338,-87.183642
+Kentucky,TODD,Guthrie Police Department,KY1100300,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.840338,-87.183642
+Kentucky,TODD,Trenton Police Department,KY1100400,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.840338,-87.183642
+Kentucky,TRIGG,Trigg County Sheriff's Office,KY1110000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,36.807681,-87.858652
+Kentucky,TRIGG,Cadiz Police Department,KY1110100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.807681,-87.858652
+Kentucky,TRIGG,Tennessee Valley Authority,KY1110200,East South Central,South,Region III,Other,FALSE,2015-05-01T00:00:00.000Z,36.807681,-87.858652
+Kentucky,TRIMBLE,Trimble County Sheriff's Office,KY1120000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,38.618193,-85.355171
+Kentucky,UNION,Union County Sheriff's Office,KY1130000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.658029,-87.95165
+Kentucky,UNION,Morganfield Police Department,KY1130100,East South Central,South,Region III,City,TRUE,2008-07-01T00:00:00.000Z,37.683617,-87.91654
+Kentucky,UNION,Sturgis Police Department,KY1130200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.546783,-87.985085
+Kentucky,UNION,Uniontown Police Department,KY1130300,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.658029,-87.95165
+Kentucky,WARREN,Warren County Sheriff's Office,KY1140000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,36.992683,-86.44256
+Kentucky,WARREN,Bowling Green Police Department,KY1140100,East South Central,South,Region III,City,TRUE,2008-10-01T00:00:00.000Z,36.995796,-86.44383
+Kentucky,WARREN,Western Kentucky University,KY1140200,East South Central,South,Region III,University or College,TRUE,2009-01-01T00:00:00.000Z,36.995634,-86.423579
+Kentucky,WARREN,Smiths Grove Police Department,KY1140300,East South Central,South,Region III,City,TRUE,2010-02-01T00:00:00.000Z,37.05265,-86.20838
+Kentucky,WARREN,Woodburn Police Department,KY1140400,East South Central,South,Region III,City,TRUE,2015-05-01T00:00:00.000Z,36.995634,-86.423579
+Kentucky,WARREN,Warren County Drug Task Force,KY1140500,East South Central,South,Region III,Other,FALSE,2015-05-01T00:00:00.000Z,36.992683,-86.44256
+Kentucky,WARREN,Warren County Constable District 1,KY1140900,East South Central,South,Region III,Other,FALSE,,,
+Kentucky,WASHINGTON,Washington County Sheriff's Office,KY1150000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.754209,-85.175416
+Kentucky,WASHINGTON,Springfield Police Department,KY1150100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.754209,-85.175416
+Kentucky,WAYNE,Wayne County Sheriff's Office,KY1160000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,36.949425,-84.81451
+Kentucky,WAYNE,Monticello Police Department,KY1160100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.94846,-84.81419
+Kentucky,WEBSTER,Webster County Sheriff's Office,KY1170000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.51946,-87.68479
+Kentucky,WEBSTER,Providence Police Department,KY1170200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,37.51946,-87.68479
+Kentucky,WEBSTER,Clay Police Department,KY1170300,East South Central,South,Region III,City,TRUE,2010-04-01T00:00:00.000Z,37.51946,-87.68479
+Kentucky,WEBSTER,Sebree Police Department,KY1170400,East South Central,South,Region III,City,TRUE,2015-05-01T00:00:00.000Z,37.51946,-87.68479
+Kentucky,WHITLEY,Whitley County Sheriff's Office,KY1180000,East South Central,South,Region III,County,TRUE,2011-01-01T00:00:00.000Z,36.758021,-84.14455
+Kentucky,"KNOX, WHITLEY",Corbin Police Department,KY1180100,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.758021,-84.14455
+Kentucky,WHITLEY,Williamsburg Police Department,KY1180200,East South Central,South,Region III,City,TRUE,2009-01-01T00:00:00.000Z,36.758021,-84.14455
+Kentucky,WHITLEY,Whitley County Constable District 1,KY1180500,East South Central,South,Region III,Other,FALSE,,,
+Kentucky,WOLFE,Wolfe County Sheriff's Office,KY1190000,East South Central,South,Region III,County,TRUE,2009-01-01T00:00:00.000Z,37.743774,-83.495068
+Kentucky,WOODFORD,Woodford County Sheriff's Office,KY1200000,East South Central,South,Region III,County,TRUE,2001-07-01T00:00:00.000Z,38.042821,-84.748002
+Kentucky,WOODFORD,Versailles Police Department,KY1200100,East South Central,South,Region III,City,TRUE,1997-11-01T00:00:00.000Z,38.052917,-84.73072
+Kentucky,WOODFORD,Woodford County Public Schools,KY1200900,East South Central,South,Region III,Other,TRUE,2019-04-01T00:00:00.000Z,,
+Kentucky,UNMAPPED COUNTY,State Police,KYKSP0000,East South Central,South,Region III,State Police,TRUE,2017-01-01T00:00:00.000Z,38.178093,-84.89988
+Kentucky,NOT SPECIFIED,State Police: Mayfield,KYKSP0100,East South Central,South,Region III,State Police,TRUE,2009-01-01T00:00:00.000Z,36.723344,-88.649897
+Kentucky,NOT SPECIFIED,State Police: Madisonville,KYKSP0200,East South Central,South,Region III,State Police,TRUE,2009-01-01T00:00:00.000Z,37.31107,-87.542196
+Kentucky,NOT SPECIFIED,State Police: Bowling Green,KYKSP0300,East South Central,South,Region III,State Police,TRUE,2009-01-01T00:00:00.000Z,36.995634,-86.423579
+Kentucky,NOT SPECIFIED,State Police: Elizabethtown,KYKSP0400,East South Central,South,Region III,State Police,TRUE,2009-01-01T00:00:00.000Z,37.695836,-85.963183
+Kentucky,NOT SPECIFIED,State Police: Campbellsburg,KYKSP0500,East South Central,South,Region III,State Police,TRUE,2009-01-01T00:00:00.000Z,38.451561,-85.120079
+Kentucky,NOT SPECIFIED,State Police: Dry Ridge,KYKSP0600,East South Central,South,Region III,State Police,TRUE,2009-01-01T00:00:00.000Z,38.716164,-84.59071
+Kentucky,NOT SPECIFIED,State Police: Richmond,KYKSP0700,East South Central,South,Region III,State Police,TRUE,2009-01-01T00:00:00.000Z,37.723528,-84.277008
+Kentucky,NOT SPECIFIED,State Police: Morehead,KYKSP0800,East South Central,South,Region III,State Police,TRUE,2009-01-01T00:00:00.000Z,38.18697,-83.4761
+Kentucky,NOT SPECIFIED,State Police: Pikeville,KYKSP0900,East South Central,South,Region III,State Police,TRUE,2009-01-01T00:00:00.000Z,37.482067,-82.402869
+Kentucky,NOT SPECIFIED,State Police: Harlan,KYKSP1000,East South Central,South,Region III,State Police,TRUE,2009-01-01T00:00:00.000Z,36.859223,-83.221497
+Kentucky,NOT SPECIFIED,State Police: London,KYKSP1100,East South Central,South,Region III,State Police,TRUE,2009-01-01T00:00:00.000Z,37.113268,-84.119395
+Kentucky,NOT SPECIFIED,State Police: Frankfort,KYKSP1200,East South Central,South,Region III,State Police,TRUE,2009-01-01T00:00:00.000Z,38.234919,-84.868786
+Kentucky,NOT SPECIFIED,State Police: Hazard,KYKSP1300,East South Central,South,Region III,State Police,TRUE,2009-01-01T00:00:00.000Z,37.241282,-83.217772
+Kentucky,NOT SPECIFIED,State Police: Ashland,KYKSP1400,East South Central,South,Region III,State Police,TRUE,2009-01-01T00:00:00.000Z,38.360004,-82.681406
+Kentucky,NOT SPECIFIED,State Police: Columbia,KYKSP1500,East South Central,South,Region III,State Police,TRUE,2009-01-01T00:00:00.000Z,37.105559,-85.28138
+Kentucky,NOT SPECIFIED,State Police: Henderson,KYKSP1600,East South Central,South,Region III,State Police,TRUE,2009-01-01T00:00:00.000Z,37.792542,-87.572577
+Kentucky,NOT SPECIFIED,State Police: Cannabis Suppression Section,KYKSP2500,East South Central,South,Region III,State Police,TRUE,2009-01-01T00:00:00.000Z,38.073196,-84.3169
+Kentucky,NOT SPECIFIED,State Police: Vehicle Investigations,KYKSP2800,East South Central,South,Region III,State Police,TRUE,2009-01-01T00:00:00.000Z,38.073196,-84.3169
+Kentucky,NOT SPECIFIED,State Police:,KYKSP2900,East South Central,South,Region III,State Police,TRUE,2018-06-01T00:00:00.000Z,,
+Kentucky,NOT SPECIFIED,State Police: West Drug Enforcement Branch,KYKSP3200,East South Central,South,Region III,State Police,TRUE,2009-01-01T00:00:00.000Z,36.995634,-86.423579
+Kentucky,NOT SPECIFIED,State Police: Drug Enforcement Area 2,KYKSP3300,East South Central,South,Region III,State Police,TRUE,2009-01-01T00:00:00.000Z,38.073196,-84.3169
+Kentucky,NOT SPECIFIED,State Police: Electronic Crimes,KYKSP3500,East South Central,South,Region III,State Police,TRUE,2009-01-01T00:00:00.000Z,38.18029,-84.90215
