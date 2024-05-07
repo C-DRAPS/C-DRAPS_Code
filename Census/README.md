@@ -280,3 +280,6 @@ https://www.census.gov/data/developers/data-sets/Health-Insurance-Statistics.htm
 ***Kalawao County, Hawaii is the only dataset w/ "N/A" insured and uninsured values, given by the Census Bureau.***
 
 
+---
+### Flow Diagram
+![Census Flow Diagram](https://raw.githubusercontent.com/C-DRAPS/C-DRAPS_Code/main/Census/Census%20Flow%20Diagram.jpg)
